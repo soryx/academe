@@ -1,1 +1,1 @@
-# academe
+# Soryx Academe
